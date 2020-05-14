@@ -8,6 +8,7 @@ import Products from './components/Products';
 import ShoppingCart from './components/ShoppingCart';
 
 import { ProductContext } from './contexts/ProductContext.js';
+import { CartContext } from './contexts/ProductContext.js';
 import Product from './components/Product';
 
 function App() {
